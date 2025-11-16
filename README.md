@@ -34,7 +34,7 @@ You bring the curiosity, I’ll bring the energy 🚴‍♂️🔥
 
 ## 📄Resume:
 Check out my Resume here:
-(https://drive.google.com/file/d/185ZnrkFK_6xVMASdYv7ChDlv17OS1Jma/view?usp=drive_link)
+(https://drive.google.com/file/d/1i6kDOB05C_Dal1YUk5HJMuKGn6S_UVY4/view?usp=sharing)
 
 
 
