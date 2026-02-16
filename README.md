@@ -32,9 +32,9 @@ You bring the curiosity, I’ll bring the energy 🚴‍♂️🔥
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black) 
 
-## 📄Resume:
+<!--## 📄Resume:
 Check out my Resume here:
-(https://drive.google.com/file/d/1i6kDOB05C_Dal1YUk5HJMuKGn6S_UVY4/view?usp=sharing)
+(https://drive.google.com/file/d/1i6kDOB05C_Dal1YUk5HJMuKGn6S_UVY4/view?usp=sharing)-->
 
 
 
