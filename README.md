@@ -4,9 +4,9 @@
 
 <br/>
 
-# Jay Kumar Das
+# **JAY KUMAR DAS**
 
-**AI/ML &amp; Full-Stack Engineer** · B.E. CSE (AI &amp; ML) @ CBIT, Hyderabad · Class of 2027 ·
+**AI/ML &amp; Full-Stack Engineer** · B.E. CSE (AI &amp; ML) @ CBIT, Hyderabad · Class of 2027
 Currently researching EEG-based cognitive fatigue detection @ NIT Goa
 
 <br/>
@@ -24,7 +24,7 @@ Currently researching EEG-based cognitive fatigue detection @ NIT Goa
 
 I build systems that sit at the intersection of machine learning research and production software — fine-tuning transformer models, then shipping them as real, working applications rather than notebooks. My recent work spans sentiment and emotion detection with DistilBERT, multilingual text classification with XLM-RoBERTa across five Indic languages, and fraud detection with explainable AI.
 
-Right now I'm researching about EEG-based cognitive fatigue prediction, working through physiological signal preprocessing, feature engineering, and model evaluation as part of a paper in progress. Outside of research, I lead CBITMUN as Secretary-General, coordinating a 100+ member team through one of the largest student-run MUN conferences in the Nation.
+Right now I'm at NIT Goa researching EEG-based cognitive fatigue prediction, working through physiological signal preprocessing, feature engineering, and model evaluation as part of a paper in progress. Outside of research, I lead CBITMUN as Secretary-General, coordinating a 200+ member team through one of the largest student-run MUN conferences in the region.
 
 What ties it together: I care about the full lifecycle of an ML system — training, evaluation, deployment, monitoring, and explainability — not just the model. I'm graduating in 2027 and open to full-time opportunities from July 2026.
 
@@ -148,27 +148,6 @@ Developing deep learning models for EEG-based cognitive fatigue prediction, runn
 
 <br/>
 
-## Leadership & Activities
-
-- **Secretary-General, CBITMUN** — Directed planning and execution of a national-level MUN conference, coordinating cross-functional teams, delegate operations, and logistics for a 200+ member organization.
-- **30+ national MUN conferences** — Awarded Best Delegate at multiple conferences, demonstrating negotiation and strategic communication under pressure.
-- **1st Prize, CSI Hackathon** — Anurag University, June 2025.
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaykd33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykd33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaykd33&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-</div>
-
-<br/>
-<br/>
 
 ## Connect
 
